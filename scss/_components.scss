@@ -1,0 +1,90 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  font-family: 'nastaliq' , sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'nastaliq' , sans-serif;
+}
+::placeholder{
+  font-family: nastaliq;
+}
+.section{
+    margin-right: 50px;
+    margin-bottom: 60px;
+  }
+.mark{
+    background-color:#ffffff;
+    color: #f52249;
+   
+  }
+.imgs{
+    margin-left: 10px;
+    margin-bottom: 7px;
+    width: 100px;
+  }
+  .input-name{
+    padding: 20px;
+    border-radius: 8px;
+    border: none;
+    text-align: right;
+    
+
+    &-last{
+        background-color: #ffffff;
+        width: 70px;
+        padding: 19px;
+        border-radius: 8px;
+        border: none;
+        text-align: right;
+       
+    }
+  }
+
+.icon-1{
+  width: 20px;
+  height: 20px;
+  color: black;
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid #5e5b5b;
+  padding: 7px;
+  margin: 10px;
+  background-image: -10px -258px;
+  cursor: pointer;
+  
+ 
+}
+.icon-1:hover{
+  color: #f52249;
+  border:  1px solid #f52249;
+  
+}
+.icon-3{
+  width: 20px;
+  height: 20px;
+  padding: 7px;
+  border-radius: 50%;
+  border: 1px solid #5e5b5b;
+  margin: 10px;
+  
+}
+.icon-3:hover{
+  border:  1px solid #f52249;
+ 
+}
+.input-name-last::placeholder{
+  color: black;
+  font-weight: 200;
+}
+
+
+
+
+ 
+ 

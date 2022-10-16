@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.section {
+  margin-right: 50px;
+  margin-bottom: 60px;
+}
+
+.mark {
+  background-color: #ffffff;
+  color: #f52249;
+}
+
+.imgs {
+  margin-left: 10px;
+  margin-bottom: 7px;
+}
+
+.input-name {
+  padding: 20px;
+  border-radius: 8px;
+  border: none;
+  text-align: right;
+}
+.input-name-last {
+  background-color: #ffffff;
+  width: 70px;
+  padding: 19px;
+  border-radius: 8px;
+  border: none;
+  text-align: right;
+}
+
+.foot-form {
+  margin-left: -250px;
+  margin-bottom: 30px;
+}
+
+.foot-form-btn {
+  width: 35%;
+}

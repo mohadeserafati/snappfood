@@ -1,0 +1,30 @@
+.header {
+  background-image: url("../images/header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 18vh;
+  padding: 40px;
+}
+.header-top-logo {
+  width: 100px;
+  height: 100px;
+}
+.header-top-logo-img {
+  cursor: pointer;
+  margin: 10px;
+}
+.header-top-input {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,23 @@
+
+%list {
+     list-style-type: none;
+     line-height: 25px;   
+     font-size: 15px;
+     color:rgba(0, 0, 0, 0.6) ;
+}
+
+%d-flex{
+    display: flex;
+    flex-direction: column;
+}
+
+@font-face{
+    font-family: 'nastaliq';
+    src:url('../Farsi-Digits/Sahel-FD.eot') format('eot'),
+        url('../Farsi-Digits/Sahel-FD.ttf') format('ttf'),
+        url('../Farsi-Digits/Sahel-FD.woff') format('woff'),
+        url('../Farsi-Digits/Sahel-FD.woff2') format('woff2');
+ 
+}
+
+
